@@ -22,6 +22,7 @@
     "@types/restify": "^8.4.1",
     "botbuilder": "^4.5.3",
     "botbuilder-azure": "^4.5.3",
+    "csv-parse": "^4.6.5",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
     "restify": "^8.4.0",
