@@ -17,16 +17,16 @@
   },
   "homepage": "https://github.com/ofuen/NodeJSBot#readme",
   "dependencies": {
-    "@types/dotenv": "^6.1.1",
-    "@types/node": "^12.0.7",
-    "@types/restify": "^7.2.11",
-    "botbuilder": "^4.4.0",
-    "botbuilder-azure": "^4.4.0",
-    "dotenv": "^8.0.0",
-    "lodash": "^4.17.14",
-    "restify": "^8.3.3",
-    "tslint": "^5.17.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^12.11.7",
+    "@types/restify": "^8.4.1",
+    "botbuilder": "^4.5.3",
+    "botbuilder-azure": "^4.5.3",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "restify": "^8.4.0",
+    "tslint": "^5.20.0",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.5.1"
+    "typescript": "^3.6.4"
   }
 }
