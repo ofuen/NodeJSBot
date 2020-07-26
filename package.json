@@ -20,7 +20,7 @@
     "@types/dotenv": "^8.2.0",
     "@types/node": "^12.11.7",
     "@types/restify": "^8.4.1",
-    "botbuilder": "^4.5.3",
+    "botbuilder": "^4.9.3",
     "botbuilder-azure": "^4.5.3",
     "csv-parse": "^4.6.5",
     "dotenv": "^8.2.0",
