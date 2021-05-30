@@ -24,7 +24,7 @@
     "botbuilder-azure": "^4.10.4",
     "csv-parse": "^4.6.5",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "restify": "^8.4.0",
     "tslint": "^5.20.0",
